@@ -98,5 +98,7 @@ INSERT INTO users (user_pk,user_id,user_pw,register_dat) VALUES<br>
     (2,'Jenna', 'kk3375', '2020/07/12'),<br>
     (3,'Wlfur', 'fur0022', '2020/08/31');<br>
 
+/**내용추가할 것
+4. boards 테이블에 데이터 삽입하기
 
 
